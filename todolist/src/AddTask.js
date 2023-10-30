@@ -11,7 +11,7 @@ const AddTask = ({ onAdd }) => {
     };
 
     return (
-        <div className="d-flex justify-content-center">
+        <div className="d-flex justify-content-center mb-2">
             <input
                 value={name}
                 onChange={e => setName(e.target.value)}

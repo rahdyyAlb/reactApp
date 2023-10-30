@@ -9,6 +9,6 @@ export const todolist = [
     { id: 7, name: "fair du react" },
     { id: 8, name: "Faire les courses" },
     { id: 9, name: "Faire les courses" },
-    { id: 11, name: "Faire les courses" },
+    { id: 11, name: "finir l'application de todo liste react" },
   ];
 
