@@ -4,10 +4,10 @@ const DeleteTask = ({ taskId, onDelete }) => {
     return (
         <button
             type="button"
-            className="btn btn-danger"
+            className="btn btn-succes"
             onClick={() => onDelete(taskId)}
         >
-            Supprimer
+            Fait
         </button>
     );
 };
